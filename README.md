@@ -42,7 +42,7 @@ This project is brought to you by:
 
 ---
 
-## 🛠️ Technologies Used (Example - you can update this)
+## 🛠️ Technologies Used
 
 * **Frontend:** Unity (for AR), C#, React Native / Flutter (for mobile UI)
 * **Backend:** Node.js / Python (Flask/Django)
@@ -50,7 +50,7 @@ This project is brought to you by:
 * **AR SDK:** ARCore / ARKit
 * **Cloud Platform:** AWS / Google Cloud
 
-## 📈 Future Enhancements (Example - you can update this)
+## 📈 Future Enhancements
 
 * Integration with smart home systems for dynamic lighting simulation.
 * Advanced object detection to automatically mask furniture/decor.
